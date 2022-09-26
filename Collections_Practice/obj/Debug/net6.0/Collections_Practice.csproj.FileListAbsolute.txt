@@ -1,0 +1,15 @@
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\bin\Debug\net6.0\Collections_Practice.exe
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\bin\Debug\net6.0\Collections_Practice.deps.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\bin\Debug\net6.0\Collections_Practice.runtimeconfig.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\bin\Debug\net6.0\Collections_Practice.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\bin\Debug\net6.0\Collections_Practice.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.csproj.AssemblyReference.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.AssemblyInfoInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.AssemblyInfo.cs
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.csproj.CoreCompileInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\refint\Collections_Practice.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\Collections_Practice.genruntimeconfig.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Collections_Practice\obj\Debug\net6.0\ref\Collections_Practice.dll
