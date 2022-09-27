@@ -1,0 +1,15 @@
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\bin\Debug\net6.0\hungry_ninja.exe
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\bin\Debug\net6.0\hungry_ninja.deps.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\bin\Debug\net6.0\hungry_ninja.runtimeconfig.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\bin\Debug\net6.0\hungry_ninja.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\bin\Debug\net6.0\hungry_ninja.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.csproj.AssemblyReference.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.AssemblyInfoInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.AssemblyInfo.cs
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.csproj.CoreCompileInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\refint\hungry_ninja.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\hungry_ninja.genruntimeconfig.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\hungry_ninja\obj\Debug\net6.0\ref\hungry_ninja.dll

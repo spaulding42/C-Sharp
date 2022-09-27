@@ -1,7 +1,7 @@
-/**
- * A class to represents a single item of a SinglyLinkedList that can be
- * linked to other Node instances to form a list of linked nodes.
- */
+// /**
+//  * A class to represents a single item of a SinglyLinkedList that can be
+//  * linked to other Node instances to form a list of linked nodes.
+//  */
  class ListNode {
     /**
      * Constructs a new Node instance. Executed when the 'new' keyword is used.
@@ -79,16 +79,16 @@
         }
     }
   
-    /**
-     * Creates a new node with the given data and inserts it at the back of
-     * this list.
-     * - Time: O(?).
-     * - Space: O(?).
-     * @param {any} data The data to be added to the new node.
-     * @param {?ListNode} runner The current node during the traversal of this list
-     *    or null when the end of the list has been reached.
-     * @returns {SinglyLinkedList} This list.
-     */
+//     /**
+//      * Creates a new node with the given data and inserts it at the back of
+//      * this list.
+//      * - Time: O(?).
+//      * - Space: O(?).
+//      * @param {any} data The data to be added to the new node.
+//      * @param {?ListNode} runner The current node during the traversal of this list
+//      *    or null when the end of the list has been reached.
+//      * @returns {SinglyLinkedList} This list.
+//      */
     insertAtBackRecursive(data, runner = this.head) {
         if (this.isEmpty()){
             const newNode = new ListNode(data)
@@ -102,17 +102,17 @@
                 return this
             }
             runner = runner.next
-            return insertAtBackRecursive(data,runner)
+            return this.insertAtBackRecursive(data,runner)
         }
-    }
+      }
   
-    /**
-     * Calls insertAtBack on each item of the given array.
-     * - Time: O(n * m) n = list length, m = arr.length.
-     * - Space: O(1) constant.
-     * @param {Array<any>} vals The data for each new node.
-     * @returns {SinglyLinkedList} This list.
-     */
+//     /**
+//      * Calls insertAtBack on each item of the given array.
+//      * - Time: O(n * m) n = list length, m = arr.length.
+//      * - Space: O(1) constant.
+//      * @param {Array<any>} vals The data for each new node.
+//      * @returns {SinglyLinkedList} This list.
+//      */
     insertAtBackMany(vals) {
       for (const item of vals) {
         this.insertAtBackRecursive(item);
@@ -136,6 +136,68 @@
       }
       return arr;
     }
+    /**
+     * Creates a new node with the given data and inserts that node at the front
+     * of this list.
+     * - Time: (?).
+     * - Space: (?).
+     * @param {any} data The data for the new node.
+     * @returns {SinglyLinkedList} This list.
+     */
+    insertAtFront(data) {
+      if (this.head == null)
+      {
+        this.head = new ListNode(data)
+      }
+      else {
+        const newNode = new ListNode(data)
+        newNode.next = this.head
+        this.head = newNode
+      }
+    }
+
+    /**
+     * Removes the first node of this list.
+     * - Time: (?).
+     * - Space: (?).
+     * @returns {any} The data from the removed node.
+     */
+  removeHead() {
+    if (this.head == null)
+    {
+      return null
+    }
+    else{
+      const data = this.head.data
+      this.head = this.head.next
+      return data
+    }
+  }
+
+    // EXTRA
+    /**
+     * Calculates the average of this list.
+     * - Time: (?).
+     * - Space: (?).
+     * @returns {number|NaN} The average of the node's data.
+     */
+    average() {
+      let sum = 0;
+      let count =0;
+      let runner = this.head;
+      if(this.isEmpty()){
+        return NaN
+      }
+      while(runner.next !== null){
+        sum += runner.data
+        count++
+        runner = runner.next 
+      }
+      sum += runner.data
+      count++
+      const avg = sum/count
+      return avg 
+    }
   }
   
   /******************************************************************* 
@@ -143,17 +205,24 @@
   Below commented code depends on insertAtBack method to be completed,
   after completing it, uncomment the code.
   */
-  const emptyList = new SinglyLinkedList();
+  // const emptyList = new SinglyLinkedList();
   
 //   const singleNodeList = new SinglyLinkedList().insertAtBackRecursive([1]);
 //   console.log(singleNodeList.toArr())
   // const biNodeList = new SinglyLinkedList().insertAtBackMany([1, 2]);
-  const firstThreeList = new SinglyLinkedList().insertAtBackMany([1, 2, 3]);
-  console.log(firstThreeList.toArr())
+  // const firstThreeList = new SinglyLinkedList().insertAtBackMany([1, 2, 3]);
+  // console.log(firstThreeList.toArr())
   // const secondThreeList = new SinglyLinkedList().insertAtBackMany([4, 5, 6]);
-  // const unorderedList = new SinglyLinkedList().insertAtBackMany([
-  //   -5, -10, 4, -3, 6, 1, -7, -2,
-  // ]);
+  const unorderedList = new SinglyLinkedList().insertAtBackMany([
+    -5, -10, 4, -3, 6, 1, -7, -2,
+  ]);
+  
+  console.log(unorderedList.toArr())
+  unorderedList.removeHead()
+  console.log(unorderedList.toArr())
+  unorderedList.insertAtFront(-5)
+  console.log(unorderedList.toArr())
+  console.log(unorderedList.average())
   
   /* node 4 connects to node 1, back to head */
   // const perfectLoopList = new SinglyLinkedList().insertAtBackMany([1, 2, 3, 4]);
@@ -169,3 +238,6 @@
   
   // Print your list like so:
   // console.log(firstThreeList.toArr());
+
+
+  
