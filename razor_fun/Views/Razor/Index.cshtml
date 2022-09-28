@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+    </head>
+    <body>
+        <h1>Here are some delicious foods!</h1>
+        @{
+            var StringList = new List<string>
+            {
+                "Tacos",
+                "Pizza",
+                "Burgers",
+                "BBQ",
+                "Steak"
+            };
+                
+            foreach(var word in StringList)
+            { 
+                var first = word[0];
+                if(first.ToString() == "B")
+                {
+                    <p style="color:red"> @word </p>
+                }
+            else{
+                    <p>@word</p>
+                }
+            }
+        }
+    </body>
+</html>

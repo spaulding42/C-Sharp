@@ -1,0 +1,15 @@
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\bin\Debug\net6.0\Deck_of_cards.exe
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\bin\Debug\net6.0\Deck_of_cards.deps.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\bin\Debug\net6.0\Deck_of_cards.runtimeconfig.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\bin\Debug\net6.0\Deck_of_cards.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\bin\Debug\net6.0\Deck_of_cards.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.csproj.AssemblyReference.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.AssemblyInfoInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.AssemblyInfo.cs
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.csproj.CoreCompileInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\refint\Deck_of_cards.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\Deck_of_cards.genruntimeconfig.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\Deck_of_cards\obj\Debug\net6.0\ref\Deck_of_cards.dll

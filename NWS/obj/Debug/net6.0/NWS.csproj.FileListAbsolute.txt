@@ -1,0 +1,15 @@
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\bin\Debug\net6.0\NWS.exe
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\bin\Debug\net6.0\NWS.deps.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\bin\Debug\net6.0\NWS.runtimeconfig.json
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\bin\Debug\net6.0\NWS.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\bin\Debug\net6.0\NWS.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.csproj.AssemblyReference.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.AssemblyInfoInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.AssemblyInfo.cs
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.csproj.CoreCompileInputs.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\refint\NWS.dll
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.pdb
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\NWS.genruntimeconfig.cache
+C:\Users\spaul\OneDrive\Desktop\C-sharp\NWS\obj\Debug\net6.0\ref\NWS.dll
