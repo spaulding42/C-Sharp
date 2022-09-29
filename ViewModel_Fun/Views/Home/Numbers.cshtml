@@ -1,0 +1,9 @@
+@model List<int>
+<a href="/">Home</a>
+<h1>Here are some numbers!</h1>
+<div>
+    @foreach (var num in Model)
+    {
+        <p>@num</p>
+    }
+</div>

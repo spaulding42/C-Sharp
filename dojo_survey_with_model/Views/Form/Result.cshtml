@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="~/css/styles.css">
+@model Survey
+<div class="results-box">
+    <h2>Submitted Info:</h2>
+    <div class="d-flex row spacing">
+        <div>Name: </div>
+        <div>@Model.Name </div>
+    </div>
+    <div class="d-flex row spacing">
+        <div>Dojo Location: </div>
+        <div>@Model.Location </div>
+    </div>
+    <div class="d-flex row spacing">
+        <div>Favorite Language: </div>
+        <div>@Model.Language </div>
+    </div>
+    <div class = "spacing">
+        <div>Comments: </div>
+        <div>@Model.Comment </div>
+    </div>
+</div>

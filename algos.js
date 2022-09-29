@@ -192,44 +192,217 @@ class SinglyLinkedList {
   
   /**
    * Removes the last node of this list.
-   * - Time: O(?).
-   * - Space: O(?).
+   * - Time: O(n) linear, n = length of list.
+   * - Space: O(1) constant.
    * @returns {any} The data from the node that was removed.
    */
-  removeBack() {}
+  removeBack() {
+    if (this.isEmpty()) {
+      return null;
+    }
+
+    // Only 1 node.
+    if (this.head.next === null) {
+      return this.removeHead();
+    }
+
+    // More than 1 node.
+    let runner = this.head;
+
+    while (runner.next.next) {
+      runner = runner.next;
+    }
+
+    // after while loop finishes, runner is now at 2nd to last node
+    const removedData = runner.next.data;
+    runner.next = null; // remove it from list
+    return removedData;
+  }
+
+  /**
+   * This version uses more conditions instead of more returns. It is a good
+   * example of how more returns can make the code easier to read and cleaner.
+   * Removes the last node of this list.
+   * - Time: O(n) linear, n = length of list.
+   * - Space: O(1) constant.
+   * @returns {any} The data from the node that was removed.
+   */
+  removeBack2() {
+    let removedData = null;
+
+    if (!this.isEmpty()) {
+      if (this.head.next === null) {
+        // head only node
+        removedData = this.removeHead();
+      } else {
+        let runner = this.head;
+        // right of && will only be checked if left is true
+        while (runner.next && runner.next.next) {
+          runner = runner.next;
+        }
+
+        // after while loop finishes, runner is now at 2nd to last node
+        removedData = runner.next.data;
+        runner.next = null; // remove it from list
+      }
+    }
+    return removedData;
+  }
 
   /**
    * Determines whether or not the given search value exists in this list.
-   * - Time: O(?).
-   * - Space: O(?).
+   * - Time: O(n) linear, n = length of list.
+   * - Space: O(1) constant.
    * @param {any} val The data to search for in the nodes of this list.
    * @returns {boolean}
    */
-  contains(val) {}
+  contains(val) {
+    let runner = this.head;
+
+    while (runner) {
+      if (runner.data === val) {
+        return true;
+      }
+      runner = runner.next;
+    }
+    return false;
+  }
 
   /**
    * Determines whether or not the given search value exists in this list.
-   * - Time: O(?).
-   * - Space: O(?).
+   * - Time: O(n) linear, n = length of list.
+   * - Space: O(n) linear due to the call stack.
    * @param {any} val The data to search for in the nodes of this list.
-   * @param {?ListNode} current The current node during the traversal of this list
+   * @param {?node} current The current node during the traversal of this list
    *    or null when the end of the list has been reached.
    * @returns {boolean}
    */
-  containsRecursive(val, current = this.head) {}
+  containsRecursive(val, current = this.head) {
+    if (current === null) {
+      return false;
+    }
+    if (current.data === val) {
+      return true;
+    }
+    return this.containsRecursive(val, current.next);
+  }
 
-  // EXTRA
   /**
    * Recursively finds the maximum integer data of the nodes in this list.
-   * - Time: O(?).
-   * - Space: O(?).
+   * - Time: O(n) linear, n = list length. Max could be at end.
+   * - Space: O(n) linear due to the call stack.
    * @param {ListNode} runner The start or current node during traversal, or null
    *    when the end of the list is reached.
    * @param {ListNode} maxNode Keeps track of the node that contains the current
    *    max integer as it's data.
    * @returns {?number} The max int or null if none.
    */
-  recursiveMax(runner = this.head, maxNode = this.head) {}
+  recursiveMax(runner = this.head, maxNode = this.head) {
+    if (this.head === null) {
+      return null;
+    }
+
+    if (runner === null) {
+      return maxNode.data;
+    }
+
+    if (runner.data > maxNode.data) {
+      maxNode = runner;
+    }
+
+    return this.recursiveMax(runner.next, maxNode);
+  }
+
+  /**
+   * Retrieves the data of the second to last node in this list.
+   * - Time: O(?).
+   * - Space: O(?).
+   * @returns {any} The data of the second to last node or null if there is no
+   *    second to last node.
+   */
+  secondToLast() {
+    let tortoise = this.head
+    if (tortoise == null){
+      return null
+    }
+    if(tortoise.next == null){
+      return null
+    }
+    let hare;
+    while(tortoise.next != null){
+      hare = tortoise;
+      tortoise = tortoise.next;
+    }
+    return hare.data;
+  }
+
+  /**
+   * Removes the node that has the matching given val as it's data.
+   * - Time: O(?).
+   * - Space: O(?).
+   * @param {any} val The value to compare to the node's data to find the
+   *    node to be removed.
+   * @returns {boolean} Indicates if a node was removed or not.
+   */
+  removeVal(val) {
+    if(this.head == null){
+      return false
+    }
+    let tortoise = this.head
+    if(tortoise.data == val){
+      this.head = tortoise.next
+      return true;
+    }
+    let hare;
+    console.log(tortoise.next)
+    while(tortoise.next !== null){
+      if (tortoise.data == val) break;
+      hare = tortoise;
+      tortoise = tortoise.next;
+    }
+    if(tortoise.data == val){
+      hare.next = tortoise.next;
+      return true
+    }
+    return false
+  }
+
+  // EXTRA
+  /**
+   * Inserts a new node before a node that has the given value as its data.
+   * - Time: O(?).
+   * - Space: O(?).
+   * @param {any} newVal The value to use for the new node that is being added.
+   * @param {any} targetVal The value to use to find the node that the newVal
+   *    should be inserted in front of.
+   * @returns {boolean} To indicate whether the node was pre-pended or not.
+   */
+  prepend(newVal, targetVal) {
+   
+    if (this.head == null){
+      return false;
+    }
+    if (this.head.data == targetVal){
+      const newNode = new ListNode(newVal);
+      newNode.next = this.head
+      this.head = newNode
+      return true;
+    }
+    let runner = this.head;
+    let previous;
+    while (runner.next){
+      if(runner.data == targetVal) break;
+      previous = runner
+      runner = runner.next
+    }
+    if (runner.data == targetVal){
+      const newNode = new ListNode(newVal);
+      previous.next = newNode
+      newNode.next = runner
+      return true;
+    }
+    return false;
+  }
 }
 
 /******************************************************************* 
@@ -239,13 +412,13 @@ after completing it, uncomment the code.
 */
 const emptyList = new SinglyLinkedList();
 
-// const singleNodeList = new SinglyLinkedList().insertAtBackMany([1]);
-// const biNodeList = new SinglyLinkedList().insertAtBackMany([1, 2]);
-// const firstThreeList = new SinglyLinkedList().insertAtBackMany([1, 2, 3]);
-// const secondThreeList = new SinglyLinkedList().insertAtBackMany([4, 5, 6]);
-// const unorderedList = new SinglyLinkedList().insertAtBackMany([
-//   -5, -10, 4, -3, 6, 1, -7, -2,
-// ]);
+const singleNodeList = new SinglyLinkedList().insertAtBackMany([1]);
+const biNodeList = new SinglyLinkedList().insertAtBackMany([1, 2]);
+const firstThreeList = new SinglyLinkedList().insertAtBackMany([1, 2, 3]);
+const secondThreeList = new SinglyLinkedList().insertAtBackMany([4, 5, 6]);
+const unorderedList = new SinglyLinkedList().insertAtBackMany([
+  -5, -10, 4, -3, 6, 1, -7, -2,
+]);
 
 /* node 4 connects to node 1, back to head */
 // const perfectLoopList = new SinglyLinkedList().insertAtBackMany([1, 2, 3, 4]);
@@ -260,4 +433,6 @@ const emptyList = new SinglyLinkedList();
 // ]);
 
 // Print your list like so:
-// console.log(firstThreeList.toArr());
+console.log(unorderedList.toArr());
+console.log(unorderedList.prepend(8,10));
+console.log(unorderedList.toArr());

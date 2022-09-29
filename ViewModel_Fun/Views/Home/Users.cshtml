@@ -1,0 +1,9 @@
+@model List<User>
+<a href="/">Home</a>
+<h1>Here are some Users!</h1>
+<div>
+    @foreach (var name in Model)
+    {
+        <p>@name.FullName()</p>
+    }
+</div>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bl58dsc2WNF8sh18raqugMYE7BdJ4tqTJ5wSfrfKlXg=",
+  "Source": "portfolio1",
+  "BasePath": "_content/portfolio1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "portfolio1\\wwwroot",
+      "Source": "portfolio1",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\portfolio2\\wwwroot\\",
+      "BasePath": "_content/portfolio1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\portfolio2\\wwwroot\\css\\style.css",
+      "SourceId": "portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\portfolio2\\wwwroot\\",
+      "BasePath": "_content/portfolio1",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

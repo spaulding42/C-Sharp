@@ -1,0 +1,48 @@
+.d-flex{
+    display:flex;
+}
+
+.center {
+    text-align: center;
+}
+
+.header {
+    display:flex;
+    justify-content: center;
+}
+
+.border {
+    border: 3px solid black;
+}
+
+.project_container {
+    width: 60%;
+    height: 500px;
+    border: 5px solid black;
+    margin-left: 20%;
+    overflow-y: auto;
+}
+
+.project {
+    padding: 10px;
+    margin: 10px;
+}
+
+.img-size {
+    width: 150px;
+    height: auto;
+}
+
+.msg-form{
+    width: 60%;
+    margin-left: 20%;
+    flex: 1;
+}
+
+.btn {
+    display:flex;
+    align-self: center;
+}
+.msg{
+    vertical-align: top;
+}
