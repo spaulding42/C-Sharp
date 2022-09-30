@@ -1,0 +1,27 @@
+.d-flex {
+    display: flex;
+}
+
+.spacing{
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn{
+    background-color: rgb(43,120,228);
+    margin-left: 20px;
+    color: white;
+    padding: 5px 10px;
+    /* border: 3px solid black; */
+    border-radius: 5px;
+    box-shadow: 3px 3px black;
+}
+
+.results-box {
+    width: 30%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}

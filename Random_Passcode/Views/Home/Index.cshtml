@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Random passcode #@Context.Session.GetInt32("count")</h1>
+    <h3>@ViewBag.Password.Password</h3>
+    <form action="/">
+        <Button>Generate</Button>
+    </form>
+</div>

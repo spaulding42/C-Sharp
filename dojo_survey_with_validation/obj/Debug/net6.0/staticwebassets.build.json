@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Jd/LGU6vFY9GMajaUZvxTjmGw/NKLFObxG+AS4deic0=",
+  "Source": "dojo_survey",
+  "BasePath": "_content/dojo_survey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dojo_survey\\wwwroot",
+      "Source": "dojo_survey",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\wwwroot\\",
+      "BasePath": "_content/dojo_survey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\wwwroot\\css\\styles.css",
+      "SourceId": "dojo_survey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\wwwroot\\",
+      "BasePath": "_content/dojo_survey",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}

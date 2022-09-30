@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="~/css/styles.css">
+@model Survey
+
+<form asp-action="submit" asp-controller="Form" method="post">
+    <div class = "d-flex spacing">
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" style="color:red"></span>
+        <input asp-for="Name">
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="Location">Dojo Location: </label>
+        <span asp-validation-for="Location" style="color:red"></span>
+        <select name="Location" asp-for="Location">
+            <option hidden value="">Choose a location</option>
+            <option value="Burbank">Burbank</option>
+            <option value="San Jose">San Jose</option>
+            <option value="Chicago">Chicago</option>
+            <option value="New York">New York</option>
+        </select>
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="Language">Favorite Language: </label>
+        <span asp-validation-for="Language" style="color:red"></span>
+        <select name="Language" asp-for="Language">
+            <option hidden value="">Choose a language</option>
+            <option value="C#">C#</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="Java">Java</option>
+            <option value="Python">Python</option>
+        </select>
+    </div>
+    <div class = "spacing">
+        <label asp-for="Comment">Comment (optional): </label>
+        <span asp-validation-for="Comment" style="color:red"></span>
+        <textarea name = "Comment" rows="5" cols="30" asp-for="Comment"></textarea>
+    </div>
+    <button type="submit" class="btn"> Submit </button>
+</form>
