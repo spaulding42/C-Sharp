@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\dojo_survey.csproj": {}
+    "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\dojo_survey_with_validation\\dojo_survey.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\dojo_survey.csproj": {
+    "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\dojo_survey_with_validation\\dojo_survey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\dojo_survey.csproj",
+        "projectUniqueName": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\dojo_survey_with_validation\\dojo_survey.csproj",
         "projectName": "dojo_survey",
-        "projectPath": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\dojo_survey.csproj",
+        "projectPath": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\dojo_survey_with_validation\\dojo_survey.csproj",
         "packagesPath": "C:\\Users\\spaul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\dojo_survey_with_validation\\obj\\",
+        "outputPath": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\dojo_survey_with_validation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spaul\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -19,6 +19,9 @@
         "originalTargetFrameworks": [
           "net6.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",

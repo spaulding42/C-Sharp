@@ -4,8 +4,13 @@
 <form asp-action="submit" asp-controller="Form" method="post">
     <div class = "d-flex spacing">
         <label asp-for="Name"></label>
-        <span asp-validation-for="Name" style="color:red"></span>
+
+        <span asp-validation-for="Name" style="color:red"></span> 
+        @* becomes -->  <span style="color:red" class="field-validation-valid" data-valmsg-replace="true"></span>
+        <input asp-for="Name"> *@
+
         <input asp-for="Name">
+        @* becomes -->  <input type = "text" data-val="true" data-val-minlength="must be at least 2 characters" data-val-minlength-min = "2" data-val-required =" is required." id="Name" name="Name" value> *@
     </div>
     <div class = "d-flex spacing">
         <label asp-for="Location">Dojo Location: </label>
@@ -36,3 +41,54 @@
     </div>
     <button type="submit" class="btn"> Submit </button>
 </form>
+
+@* -------------------  will create HTML like this:-----------------------
+
+<form method = "post" action = "/submit">
+
+---- NAME
+    <div class="d-flex spacing">
+        <label for="Name">Name</label>
+        <span style="color:red" class="field-validation-valid" data-valmsg-replace="true"></span>
+        <input type = "text" data-val="true" data-val-minlength="must be at least 2 characters" data-val-minlength-min = "2" data-val-required =" is required." id="Name" name="Name" value>
+    </div>
+
+------ Location
+    <div class="d-flex spacing">
+    <label for="Location"> Dojo Location: </label>
+    <span style="color:red" class="field-validation-valid" data-valsmg-for="Location" data-valmsg-replace="true"></span>
+        <select name="Location" data-val="true" data-val-required=" is required." id="Location">
+            <option hidden="" value="">Choose a location</option>
+            <option value="Burbank">Burbank</option>
+            <option value="San Jose">San Jose</option>
+            <option value="Chicago">Chicago</option>
+            <option value="New York">New York</option>
+        </select>
+    </div>
+
+--------Language
+    <div class="d-flex spacing">
+        <label for="Language">Favorite Language: </label>
+        <span style="color:red" class="field-validation-valid" data-valmsg-for="Language" data-valmsg-replace="true"></span>
+        <select name="Language" data-val="true" data-val-required=" is required." id="Language">
+            <option hidden="" value="">Choose a language</option>
+            <option value="C#">C#</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="Java">Java</option>
+            <option value="Python">Python</option>
+        </select>
+    </div>
+
+----------- Comment
+    <div class="spacing">
+        <label for="Comment">Comment (optional): </label>
+        <span style="color:red" class="field-validation-valid" data-valmsg-for="Comment" data-valmsg-replace="true"></span>
+        <textarea name="Comment" rows="5" cols="30" id="Comment"></textarea>
+    </div>
+
+    <button type="submit" class="btn"> Submit </button>
+
+    what is this??????????????????????????????????
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HzLB2w-ow1DoNWHpu-3mfnfhZt1hN3aF__-fwjX7Q63Pby0RuB4M2e7wt9aIAggMZWHGShe9u-AkyhuRCxfQqTCj0b-UyptIGKN-JVjlHmSRzv9D3GhLdMPrzo58xUHmMCjaJzAyE69hLPkIpxJ7IA">
+</form>
+ *@

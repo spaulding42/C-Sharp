@@ -1,6 +1,5 @@
 // Controller
 
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using DojoSurvey.Models;
 namespace DojoSurvey.Controllers;  
@@ -14,18 +13,20 @@ public class FormController : Controller   //remember inheritance??
     {
         return View();
     }
+    
     [HttpPost]       //type of request   POST
     [Route("submit")]         
     public IActionResult Submit(Survey data)
     {
         if(ModelState.IsValid)
         {
-            return RedirectToAction("result", data);
+            return View("Result", data);
+            
         }
         return View("Index");
     }
-    [HttpGet]
-    [Route("result")]
+
+    [HttpGet("result")]
     public IActionResult Result(Survey data)
     {
         

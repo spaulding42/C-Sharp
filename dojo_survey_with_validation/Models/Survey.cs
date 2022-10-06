@@ -1,9 +1,10 @@
 using System.ComponentModel.DataAnnotations;
-// using System;
-// using System.Collections.Generic;
+
 namespace DojoSurvey.Models;
 #pragma warning disable CS8618
 
+
+// Validation for the Comment data to allow empty or 20+ chars but throws an err if less than 20
 public class CommentValidation : ValidationAttribute
 {
     protected override ValidationResult IsValid(object? value, ValidationContext validationContext)
@@ -28,7 +29,8 @@ public class CommentValidation : ValidationAttribute
         }
     }
 }
-    
+
+//  -------------------- SURVEY class -------------
 public class Survey
 {
 
@@ -43,6 +45,7 @@ public class Survey
     public string Language {get;set;}
 
     [CommentValidation]
+    // [MinLength(20, ErrorMessage ="must be 20+ chars")]       made cusom validation so not needed
     public string? Comment {get;set;}
 
 }

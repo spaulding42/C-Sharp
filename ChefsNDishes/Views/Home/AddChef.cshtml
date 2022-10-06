@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Add Chef";
+}
+<link rel="stylesheet" href="~/css/site.css">
+
+<h2 class="text-center"><a href="/">Chefs</a> | <a href="/dishes">Dishes</a> | <span>Add a Chef</span> | <a href="/dishes/new">Add a Dish</a></h2>
+<h2 class="text-center">Add a chef</h2>
+
+@model Chef
+
+<form asp-action="SubmitChef" asp-controller="Home" method="POST" class="align-content-center">
+    <div class = "d-flex justify-content-center">
+        <label asp-for="FirstName"></label>
+        <span asp-validation-for="FirstName" style="color:red"></span> 
+        <input asp-for="FirstName">
+    </div>
+    <div class = "d-flex justify-content-center">
+        <label asp-for="LastName"></label>
+        <span asp-validation-for="LastName" style="color:red"></span> 
+        <input asp-for="LastName">
+    </div>
+    <div class = "d-flex justify-content-center">
+        <label asp-for="DoB"></label>
+        <span asp-validation-for="DoB" style="color:red"></span> 
+        <input asp-for="DoB">
+    </div>
+    <p class="text-center"> Must be 18 or older to be a chef!</p>
+    <button type="submit" class="btn btn-primary button1"> Submit </button>
+</form>

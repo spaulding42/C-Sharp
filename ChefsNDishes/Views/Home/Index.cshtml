@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Chef>
+
+<h2 class="text-center"><span>Chefs</span> | <a href="/dishes">Dishes</a> | <a href="/chefs/new">Add a Chef</a> | <a href="/dishes/new">Add a Dish</a></h2>
+
+<h2 class="text-center">Check out our roster of chefs!</h2>
+<table class="table">
+    <tr>
+        <td>Name</td>
+        <td>Age</td>
+        <td># of Dishes</td>
+    </tr>
+    @{if (Model != null)
+        @foreach (Chef chef in Model)
+        {
+            <tr>
+                <td>@chef.FirstName @chef.LastName</td>
+                <td>@{
+                    var today = DateTime.Today;
+                    var age = today.Year - chef.DoB.Year;
+                    <span>@age</span>
+                }
+                    </td>
+                <td>@chef.CreatedDishes.Count</td>
+            </tr>
+        }
+    }
+</table>

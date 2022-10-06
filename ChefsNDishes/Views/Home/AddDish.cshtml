@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Add Dish";
+}
+<link rel="stylesheet" href="~/css/site.css">
+
+<h2 class="text-center"><a href="/">Chefs</a> | <a href="/dishes/new">Dishes</a> | <a href="/chefs/new">Add a Chef</a> | <span>Add a Dish</span></h2>
+<h2 class="text-center">Add a dish</h2>
+
+@model Dish
+
+<form asp-action="SubmitDish" asp-controller="Home" method="POST">
+    <div class = "d-flex spacing">
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" style="color:red"></span> 
+        <input asp-for="Name">
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="Calories"></label>
+        <span asp-validation-for="Calories" style="color:red"></span> 
+        <input asp-for="Calories">
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="Tastiness">Favorite Tastiness: </label>
+        <span asp-validation-for="Tastiness" style="color:red"></span>
+        <select name="Tastiness" asp-for="Tastiness">
+            <option hidden value="">Choose Tastiness</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="ChefId">Chef: </label>
+        <span asp-validation-for="ChefId" style="color:red"></span>
+        <select name="ChefId" asp-for="ChefId">
+            <option hidden value="">Choose Chef</option>
+            @foreach (var item in ViewBag.data)
+            {
+                <option value="@item.ChefId">@item.FirstName @item.LastName</option>
+            }
+        </select>
+    </div>
+    
+    
+    <button type="submit" class="btn btn-primary"> Submit </button>
+</form>
