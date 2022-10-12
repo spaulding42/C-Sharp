@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="~/css/style.css" />
+
+<header class="d-flex justify-content-between">
+    <div class= "d-flex">
+        <h3>JumpStarter</h3>
+        <a href="/projects/new"> Start a Project</a>
+    </div>
+    <div>
+        <a href="/projects">Home</a> |
+        <a href="/logout">Logout</a>
+    </div>
+</header>
+
+@model Project
+@{
+    int? uid = Context.Session.GetInt32("UUID");
+}
+<h1>@Model.Title</h1>
+        <p>@Model.Description</p>
+<div class="d-flex">
+    <div>
+        <h4>Us$ @ViewBag.RaisedAmt</h4>
+        <p>Pledged of US$ @Model.Goal goal</p>
+        <div class="total_box">
+            <div class="raised_box" style="width:@ViewBag.GoalPercent%"></div>
+        </div>
+        <h4>@Model.DonorList.Count</h4>
+        <p>Supporters</p>
+        <h4>Ends: @Model.EndDate</h4>
+    </div>
+    
+    @{
+        
+            if (uid != Model.Creator.UserId)
+            {
+                Pledge PledgeForm = new Pledge () {
+                    PledgeAmt = 0,
+                    ProjectId = Model.ProjectId
+                };
+                <partial name="_Pledge" model="PledgeForm"></partial>
+            }
+            else{
+                <span>This is your project</span>
+            }
+        
+    }
+</div>

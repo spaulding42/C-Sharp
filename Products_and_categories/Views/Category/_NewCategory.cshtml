@@ -1,0 +1,13 @@
+@model Category
+
+<h3>New Category</h3>
+
+<form asp-controller="Category" asp-action="SubmitCategory"  method="POST">
+    <div class = "d-flex spacing">
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" style="color:red"></span> 
+        <input asp-for="Name">
+    </div>
+
+    <button type="submit" class="btn btn-primary"> Submit </button>
+</form>

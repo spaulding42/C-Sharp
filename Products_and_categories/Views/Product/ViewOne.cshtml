@@ -1,0 +1,53 @@
+@model Product
+@{
+    ViewData["Title"] = "Product View Page";
+}
+<h2><a href="/"> Products </a> | <a href="/categories">Categories</a></h2>
+<h1>Viewing: @Model.Name</h1>
+<p>Description: @Model.Description</p>
+
+<div>
+    <div class="left-column">
+        <h4>Current Categories</h4>
+        @{
+            List<Category> AllCats = ViewBag.allCategories;
+            List<Category> othercats = new List<Category>();
+            if(AllCats.Count > 0)
+                foreach (Category cat in AllCats)
+                {
+                    @* thisCat will be null if AllCats has a category that isn't listed under this product *@
+                    bool thisCat = Model.prodCategories.Any(c=>c.CategoryId == cat.CategoryId);
+                    if (thisCat)
+                    {
+                        <p>@cat.Name</p>
+                    }
+                    else
+                    {
+                        @* will add to a list of un-selected categores to be selected from later *@
+                        othercats.Add(cat);
+                    }
+                    
+                }
+                else
+                {
+                    <p>No categories listed for this product</p>
+                }
+        }
+    </div>
+    <div>
+        <h3>Assign a Category to this product</h3>
+    
+        <form asp-controller="Product" asp-action="AddCatToProd" type="POST">
+            <select name="CategoryId">
+                @{
+                    foreach(Category cat in othercats)
+                    {
+                        <option value=@cat.CategoryId>@cat.Name</option>
+                    }
+                }
+            </select>
+            <input type="hidden" name="ProductId" value="@Model.ProductId">
+            <button>Add Category</button>
+        </form>
+    </div>
+</div>

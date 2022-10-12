@@ -1,0 +1,19 @@
+@model Wedding
+
+<header class="d-flex justify-content-between">
+    <h2>Welcome @ViewBag.user.FirstName!</h2>
+    <div>
+        <a href="/">Home </a> | <a href="/weddings/new">Plan a Wedding </a> | <a href="/logout">Logout</a>
+    </div>
+</header>
+
+<h1> @Model.WedderOne and @Model.WedderTwo's wedding</h1>
+<h3>Date: @Model.Date</h3>
+<h3>Address: @Model.Address</h3>
+<h4>Guests</h4>
+@foreach (UserWeddingRSVP rsvps in @Model.WeddingAttendees)
+{
+    if(rsvps.User != null){
+        <p>@rsvps.User.FirstName @rsvps.User.LastName</p>
+    }
+}

@@ -1,0 +1,35 @@
+@model Wedding
+
+<header class="d-flex justify-content-between">
+    <h2>Welcome @ViewBag.user.FirstName!</h2>
+    <div>
+        <a href="/">Home </a> | <span>Plan a Wedding </span> | <a href="/logout">Logout</a>
+    </div>
+</header>
+
+
+<form asp-controller="Weddings" asp-action="submit"  method="post">
+    <div class = "d-flex spacing">
+        <label asp-for="WedderOne"></label>
+        <span asp-validation-for="WedderOne" style="color:red"></span> 
+        <input asp-for="WedderOne">
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="WedderTwo"></label>
+        <span asp-validation-for="WedderTwo" style="color:red"></span> 
+        <input asp-for="WedderTwo">
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="Date"></label>
+        <span asp-validation-for="Date" style="color:red"></span> 
+        <input asp-for="Date">
+    </div>
+    <div class = "d-flex spacing">
+        <label asp-for="Address"></label>
+        <span asp-validation-for="Address" style="color:red"></span> 
+        <input asp-for="Address">
+    </div>
+    
+    
+    <button type="submit" class="btn btn-success"> Submit </button>
+</form>

@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Categories";
+}
+@model List<Category>
+
+<h2><a href="/"> Products </a> | <span>Categories</span></h2>
+
+@{
+    Category newCategory = new Category();
+}
+<div class="d-flex">
+    <div>
+        <partial name="_NewCategory" model="newCategory"/>
+    </div>
+    <div>
+        <h3>All Categories: </h3>
+        @foreach (Category cat in Model)
+        {
+            <div><a href="/category/@cat.CategoryId">@cat.Name</a></div>
+        }
+        
+    </div>
+</div>

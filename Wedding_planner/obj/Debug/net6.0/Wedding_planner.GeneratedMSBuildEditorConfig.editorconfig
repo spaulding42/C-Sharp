@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Wedding_planner
+build_property.RootNamespace = Wedding_planner
+build_property.ProjectDir = c:\Users\spaul\OneDrive\Desktop\C-sharp\C-Sharp\Wedding_planner\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\spaul\OneDrive\Desktop\C-sharp\C-Sharp\Wedding_planner
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Home/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Users/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcX0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Users/_Registeration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcX1JlZ2lzdGVyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Weddings/AddWedding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ3NcQWRkV2VkZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Weddings/AllWeddings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ3NcQWxsV2VkZGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Weddings/ViewOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ3NcVmlld09uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/spaul/OneDrive/Desktop/C-sharp/C-Sharp/Wedding_planner/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nuxf6kx3cf

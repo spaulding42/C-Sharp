@@ -1,0 +1,57 @@
+<header class="d-flex justify-content-between">
+    <div class= "d-flex">
+        <h3>JumpStarter</h3>
+        <a href="/projects/new"> Start a Project</a>
+    </div>
+    <div>
+        <span>Home</span> |
+        <a href="/logout">Logout</a>
+    </div>
+</header>
+
+@model List<Project>
+
+<h1>Discover</h1>
+<h3>@ViewBag.FundedProjects projects funded - $@ViewBag.TotalRaised raised - @ViewBag.totalPledges pledges made</h3>
+<table>
+    <tr>
+        <td>Project Title</td>
+        <td>% Funded</td>
+        <td>Creator</td>
+        <td>Actions</td>
+    </tr>
+    @{
+        foreach(Project proj in Model)
+        {
+            float raised = 0;
+            foreach(UserPledge pledge in proj.DonorList)
+            {
+                raised += pledge.donationAmt;
+            }
+            float goal = proj.Goal;
+            float goalPercent = (float)((raised/goal) *100);
+            <tr>
+                <td>@proj.Title</td>
+                <td>@goalPercent %</td>
+                <td>@proj.Creator.FirstName @proj.Creator.LastName</td>
+                <td>
+                    @if(proj.UserId == Context.Session.GetInt32("UUID"))
+                    {
+                        <span><a href="/projects/@proj.ProjectId">View</a>
+                            <form asp-controller="Projects" asp-action="Delete" asp-route-projectId="@proj.ProjectId" method="POST">
+                                <button class="btn btn-danger">Delete</button></form>
+                        </span>
+                    }
+                    else
+                    {
+                        @* <form asp-controller="Projects" asp-action="ViewOne" asp-route-projectId="@proj.ProjectId">
+                            <button class="btn btn-primary">View</button> </form>  *@
+                        <span>
+                            <a href="/projects/@proj.ProjectId">View</a>
+                        </span>
+                    }
+                </td>
+            </tr>
+        }
+    }
+</table>

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Product View Page";
+}
+@model List<Product>
+
+<h2><span> Products </span> | <a href="/categories">Categories</a></h2>
+
+@{
+    Product newProduct = new Product();
+}
+<div class="d-flex">
+    <div>
+        <partial name="_NewProduct" model="newProduct"/>
+    </div>
+    <div>
+        <h3>All Products: </h3>
+        @foreach (Product prod in Model)
+        {
+            <div><a href="/products/@prod.ProductId">@prod.Name</a></div>
+        }
+    </div>
+</div>

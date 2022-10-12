@@ -1,0 +1,48 @@
+@model List<Wedding>
+
+@{
+    int? uid = Context.Session.GetInt32("UUID");
+}
+
+<header class="d-flex justify-content-between">
+    <h2>Welcome @ViewBag.user.FirstName!</h2>
+    <div>
+        <span>Home </span> | <a href="/weddings/new">Plan a Wedding </a> | <a href="/logout">Logout</a>
+    </div>
+</header>
+
+<table class="table">
+    <tr>
+        <td>Wedding of</td>
+        <td>Date</td>
+        <td>Guest Count</td>
+        <td>Action</td>
+    </tr>
+    @foreach (Wedding wedding in Model)
+    {
+    
+        bool alreadyRSVPd = wedding.WeddingAttendees.Any(wr => wr.UserId == Context.Session.GetInt32("UUID"));
+        
+        <tr>
+            <td><a href="/weddings/@wedding.WeddingId">@wedding.WedderOne & @wedding.WedderTwo</a></td>
+            <td>@wedding.Date</td>
+            <td>@wedding.WeddingAttendees.Count</td>
+            @{
+                if(uid == wedding.UserId)
+                {
+                    <td><form asp-controller="Weddings" asp-action="Delete" asp-route-weddingId="@wedding.WeddingId"><button>Delete</button></form></td>
+                }
+                else
+                {
+
+                    <td><form asp-controller="Weddings" asp-action="RSVP" asp-route-weddingId="@wedding.WeddingId">
+                        <button>
+                            @if (alreadyRSVPd)
+                            {<span>Un-RSVP</span>}
+                            else {<span>RSVP</span>}
+                            </button></form></td>
+                }
+            }
+        </tr>
+    }
+</table>
