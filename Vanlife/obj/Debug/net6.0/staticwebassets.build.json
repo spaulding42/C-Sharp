@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MNk7hMuTPRb4/zz/HgezA9jw9kkRkFgAoQ7Nx1O+hQc=",
+  "Hash": "QIsJdu1QwD0IW2DkEOdc2/jIZu/cjnavrmugem2P/M4=",
   "Source": "Vanlife",
   "BasePath": "_content/Vanlife",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Vanlife\\wwwroot",
       "Source": "Vanlife",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Vanlife.styles.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Vanlife.styles.css",
       "SourceId": "Vanlife",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "Vanlife.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Vanlife.styles.css"
+      "OriginalItemSpec": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Vanlife.styles.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vanlife.bundle.scp.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vanlife.bundle.scp.css",
       "SourceId": "Vanlife",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "Vanlife.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vanlife.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vanlife.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\AlabamaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\AlabamaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "AlabamaFinal.json",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\AlabamaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\css\\site.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\favicon.ico",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\js\\site.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackFraming1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackFraming1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/BackFraming1.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\BackFraming1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackFraming2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackFraming2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/BackFraming2.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\BackFraming2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackFraming3.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackFraming3.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/BackFraming3.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\BackFraming3.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackNoBed1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\BackNoBed1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/BackNoBed1.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\BackNoBed1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Bench1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Bench1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Bench1.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Bench1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Bench2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Bench2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Bench2.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Bench2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Bench3.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Bench3.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Bench3.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Bench3.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\BigVent1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\BigVent1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/BigVent1.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\BigVent1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\BigVent2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\BigVent2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/BigVent2.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\BigVent2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CabtoBackLip1.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CabtoBackLip1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CabtoBackLip2.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CabtoBackLip2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip3.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip3.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CabtoBackLip3.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CabtoBackLip3.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip4.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CabtoBackLip4.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CabtoBackLip4.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CabtoBackLip4.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanHole1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanHole1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CeilingFanHole1.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CeilingFanHole1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanHole2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanHole2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CeilingFanHole2.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CeilingFanHole2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanHole3.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanHole3.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CeilingFanHole3.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CeilingFanHole3.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanTaped.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CeilingFanTaped.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CeilingFanTaped.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CeilingFanTaped.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Couch1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Couch1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Couch1.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Couch1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CouchBed1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CouchBed1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CouchBed1.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CouchBed1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\CouchBed2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\CouchBed2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/CouchBed2.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\CouchBed2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Countertop1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Countertop1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Countertop1.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Countertop1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Countertop2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Countertop2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Countertop2.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Countertop2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Electrical.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Electrical.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Electrical.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Electrical.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\EmptyCargo.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\EmptyCargo.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/EmptyCargo.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\EmptyCargo.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\EmptySelfie.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\EmptySelfie.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/EmptySelfie.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\EmptySelfie.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Floor1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Floor1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Floor1.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Floor1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/FoldingBed1.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\FoldingBed1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/FoldingBed2.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\FoldingBed2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed3.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed3.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/FoldingBed3.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\FoldingBed3.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed4.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed4.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/FoldingBed4.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\FoldingBed4.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed5.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed5.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/FoldingBed5.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\FoldingBed5.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed6.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\FoldingBed6.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/FoldingBed6.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\FoldingBed6.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\garage1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\garage1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/garage1.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\garage1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\garagefull.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\garagefull.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/garagefull.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\garagefull.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Insulation1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Insulation1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Insulation1.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Insulation1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Kitchen1.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Kitchen1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Kitchen2.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Kitchen2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen3.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen3.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Kitchen3.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Kitchen3.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen4.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Kitchen4.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Kitchen4.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Kitchen4.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenCAD.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenCAD.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/KitchenCAD.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\KitchenCAD.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenCouch.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenCouch.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/KitchenCouch.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\KitchenCouch.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenFinished1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenFinished1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/KitchenFinished1.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\KitchenFinished1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenFinished2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenFinished2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/KitchenFinished2.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\KitchenFinished2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenPlumbing.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenPlumbing.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/KitchenPlumbing.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\KitchenPlumbing.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenSink.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\KitchenSink.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/KitchenSink.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\KitchenSink.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Lighting.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Lighting.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Lighting.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Lighting.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\LoungingView.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\LoungingView.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/LoungingView.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\LoungingView.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\OutsideCamping.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\OutsideCamping.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/OutsideCamping.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\OutsideCamping.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Shiplap1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Shiplap1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Shiplap1.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Shiplap1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\SmallFan1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\SmallFan1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/SmallFan1.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\SmallFan1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\SmallFan2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\SmallFan2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/SmallFan2.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\SmallFan2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\SolarPanels1.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\SolarPanels1.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/SolarPanels1.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\SolarPanels1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\SolarPanels2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\SolarPanels2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/SolarPanels2.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\SolarPanels2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Subfloor.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Subfloor.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Subfloor.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Subfloor.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\Sunset.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\Sunset.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/Sunset.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\Sunset.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\SwivelSeats.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\SwivelSeats.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/SwivelSeats.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\SwivelSeats.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\UnderBedStorage.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\UnderBedStorage.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/UnderBedStorage.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\UnderBedStorage.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\MyVanAssets\\VanOutside.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\MyVanAssets\\VanOutside.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "MyVanAssets/VanOutside.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\MyVanAssets\\VanOutside.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\OtherAssets\\FiberglassBatts.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\OtherAssets\\FiberglassBatts.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "OtherAssets/FiberglassBatts.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\OtherAssets\\FiberglassBatts.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\OtherAssets\\sparyfoaminsulationforvan.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\OtherAssets\\sparyfoaminsulationforvan.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "OtherAssets/sparyfoaminsulationforvan.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\OtherAssets\\sparyfoaminsulationforvan.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\OtherAssets\\sprayfoam2.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\OtherAssets\\sprayfoam2.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "OtherAssets/sprayfoam2.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\OtherAssets\\sprayfoam2.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\OtherAssets\\thinsulate.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\OtherAssets\\thinsulate.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "OtherAssets/thinsulate.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\OtherAssets\\thinsulate.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\OtherAssets\\Wool-Insulation.jpg",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\OtherAssets\\Wool-Insulation.jpg",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "OtherAssets/Wool-Insulation.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\OtherAssets\\Wool-Insulation.jpg"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\AlabamaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\AlabamaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/AlabamaFinal.json",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\AlabamaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\AlaskaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\AlaskaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/AlaskaFinal.json",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\AlaskaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\ArizonaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\ArizonaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/ArizonaFinal.json",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\ArizonaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\ArkansasFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\ArkansasFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/ArkansasFinal.json",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\ArkansasFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\CaliforniaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\CaliforniaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/CaliforniaFinal.json",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\CaliforniaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\ColoradoFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\ColoradoFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/ColoradoFinal.json",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\ColoradoFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\ConnecticutFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\ConnecticutFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/ConnecticutFinal.json",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\ConnecticutFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\DelawareFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\DelawareFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/DelawareFinal.json",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\DelawareFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\FloridaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\FloridaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/FloridaFinal.json",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\FloridaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\GeorgiaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\GeorgiaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/GeorgiaFinal.json",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\GeorgiaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\HawaiiFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\HawaiiFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/HawaiiFinal.json",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\HawaiiFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\IdahoFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\IdahoFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/IdahoFinal.json",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\IdahoFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\IllinoisFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\IllinoisFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/IllinoisFinal.json",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\IllinoisFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\IndianaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\IndianaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/IndianaFinal.json",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\IndianaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\IowaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\IowaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/IowaFinal.json",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\IowaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\KansasFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\KansasFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/KansasFinal.json",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\KansasFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\KentuckyFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\KentuckyFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/KentuckyFinal.json",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\KentuckyFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\LouisianaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\LouisianaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/LouisianaFinal.json",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\LouisianaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MaineFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MaineFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MaineFinal.json",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MaineFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MarylandFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MarylandFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MarylandFinal.json",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MarylandFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MassachusettsFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MassachusettsFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MassachusettsFinal.json",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MassachusettsFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MichiganFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MichiganFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MichiganFinal.json",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MichiganFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MinnesotaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MinnesotaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MinnesotaFinal.json",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MinnesotaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MississippiFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MississippiFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MississippiFinal.json",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MississippiFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MissouriFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MissouriFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MissouriFinal.json",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MissouriFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\MontanaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\MontanaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/MontanaFinal.json",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\MontanaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\NationalForests.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\NationalForests.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/NationalForests.json",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\NationalForests.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\NebraskaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\NebraskaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/NebraskaFinal.json",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\NebraskaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\NevadaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\NevadaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/NevadaFinal.json",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\NevadaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\New HampshireFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\New HampshireFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/New HampshireFinal.json",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\New HampshireFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\New JerseyFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\New JerseyFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/New JerseyFinal.json",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\New JerseyFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\New MexicoFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\New MexicoFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/New MexicoFinal.json",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\New MexicoFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\New YorkFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\New YorkFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/New YorkFinal.json",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\New YorkFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\North CarolinaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\North CarolinaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/North CarolinaFinal.json",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\North CarolinaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\North DakotaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\North DakotaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/North DakotaFinal.json",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\North DakotaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\OhioFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\OhioFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/OhioFinal.json",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\OhioFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\OklahomaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\OklahomaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/OklahomaFinal.json",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\OklahomaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\OregonFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\OregonFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/OregonFinal.json",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\OregonFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\PennsylvaniaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\PennsylvaniaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/PennsylvaniaFinal.json",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\PennsylvaniaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\Rhode IslandFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\Rhode IslandFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/Rhode IslandFinal.json",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\Rhode IslandFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\South CarolinaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\South CarolinaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/South CarolinaFinal.json",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\South CarolinaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\South DakotaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\South DakotaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/South DakotaFinal.json",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\South DakotaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\TennesseeFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\TennesseeFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/TennesseeFinal.json",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\TennesseeFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\TexasFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\TexasFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/TexasFinal.json",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\TexasFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\UtahFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\UtahFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/UtahFinal.json",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\UtahFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\VermontFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\VermontFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/VermontFinal.json",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\VermontFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\VirginiaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\VirginiaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/VirginiaFinal.json",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\VirginiaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\WashingtonFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\WashingtonFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/WashingtonFinal.json",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\WashingtonFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\West VirginiaFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\West VirginiaFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/West VirginiaFinal.json",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\West VirginiaFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\WisconsinFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\WisconsinFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/WisconsinFinal.json",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\StateParks\\WisconsinFinal.json"
     },
     {
-      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\StateParks\\WyomingFinal.json",
+      "Identity": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\StateParks\\WyomingFinal.json",
       "SourceId": "Vanlife",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\Vanlife\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\spaul\\OneDrive\\Desktop\\C-sharp\\C-Sharp\\Vanlife\\wwwroot\\",
       "BasePath": "_content/Vanlife",
       "RelativePath": "StateParks/WyomingFinal.json",
       "AssetKind": "All",
