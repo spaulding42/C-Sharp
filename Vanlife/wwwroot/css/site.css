@@ -30,3 +30,10 @@ body {
   margin: 5px;
   border-radius: 5px;
 }
+
+.reg-form{
+  justify-content: center;
+}
+.margin-20{
+  margin: 20px 5px;
+}

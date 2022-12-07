@@ -9,10 +9,12 @@ public class User
     public int UserId { get; set; }
 
     [Required]
+    [Display(Name ="First Name")]
     [MinLength(2, ErrorMessage = "must be 2 or more characters")]
     public string FirstName { get; set; }
     
     [Required]
+    [Display(Name ="Last Name")]
     [MinLength(2, ErrorMessage = "must be 2 or more characters")]
     public string LastName { get; set; }
     

@@ -1,58 +1,74 @@
-/* 
-Given by Riot games.
-*/
-
-const str1 = "b70a164c32a20c10";
-
-const expected1 = "a184b70c42";
-
 /**
- * Rehashes an incorrectly hashed string by combining letter count occurrences
- * and alphabetizing them.
- * Time: O(?).
- * Space: O(?).
- * @param {string} s An incorrectly hashed string.
- * @returns {string} The correctly rehashed string alphabetized.
+ * @param {string[]} strs
+ * @return {string}
  */
-function rehash(s) {
-  let hashmap = {}
-  let nextnum =""
+ var longestCommonPrefix = function(strs) {
+  let common = ""
+  
+  
+  return common
+};
 
-  for (let i = 0; i < s.length; i++){
-    let letter=""
-    if (isNaN(parseInt(s.charAt(i)))){
-      if(!(s[i] in hashmap))
-      {
-        console.log(s[i])
-        hashmap[s[i]] = 0
-        letter = s[i]
-      } 
-      else {
-        // console.log(nextnum)
-        // i--
-      }      
-      nextnum = ""
-      while (!isNaN(s[i]))
-      {
-        nextnum += s[i]
-        i++
-      }
-      hashmap[letter] += parseInt(nextnum)
+let strs = ["flower","flow","flight"];
+console.log(longestCommonPrefix(strs));
 
-    }
-    else{
-      continue
-    }
 
-  }
-  s=""
-  for (key in hashmap){
-    s += key 
-    s+= hashmap[key]
-  }
-  return hashmap
-}
-console.log(rehash(str1))
+
+// /* 
+// Given by Riot games.
+// */
+
+// const str1 = "b70a164c32a20c10";
+
+// const expected1 = "a184b70c42";
+
+// /**
+//  * Rehashes an incorrectly hashed string by combining letter count occurrences
+//  * and alphabetizing them.
+//  * Time: O(?).
+//  * Space: O(?).
+//  * @param {string} s An incorrectly hashed string.
+//  * @returns {string} The correctly rehashed string alphabetized.
+//  */
+// function rehash(s) {
+//   let hashmap = {}
+//   let nextnum =""
+
+//   for (let i = 0; i < s.length; i++){
+//     let letter=""
+//     if (isNaN(parseInt(s.charAt(i)))){
+//       if(!(s[i] in hashmap))
+//       {
+//         console.log(s[i])
+//         hashmap[s[i]] = 0
+//         letter = s[i]
+//       } 
+//       else {
+//         // console.log(nextnum)
+//         // i--
+//       }      
+//       nextnum = ""
+//       while (!isNaN(s[i]))
+//       {
+//         nextnum += s[i]
+//         i++
+//       }
+//       hashmap[letter] += parseInt(nextnum)
+
+//     }
+//     else{
+//       continue
+//     }
+
+//   }
+//   s=""
+//   for (key in hashmap){
+//     s += key 
+//     s+= hashmap[key]
+//   }
+//   return hashmap
+// }
+// console.log(rehash(str1))
 
 /*****************************************************************************/
 
